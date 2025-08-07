@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Crazyflie_Deck_Connector")(type "KiCad")(uri "${KIPRJMOD}/Crazyflie_Deck_Connector.pretty")(options "")(descr ""))
+  (lib (name "STBB1-APUR")(type "KiCad")(uri "${KIPRJMOD}/STBB1-APUR.pretty")(options "")(descr ""))
+  (lib (name "DS28E05")(type "KiCad")(uri "${KIPRJMOD}/DS28E05.pretty")(options "")(descr ""))
+  (lib (name "CF_EXP")(type "KiCad")(uri "${KIPRJMOD}/CF_EXP.pretty")(options "")(descr ""))
+)
