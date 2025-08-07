@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "69ab1edc-bf0f-4f38-bb01-72712ff15deb")
 	(paper "A4")
+	(title_block
+		(title "Crazyflie Active Vicon LED Deck")
+		(date "2025-08-07")
+		(rev "v1.0")
+		(company "DASC Lab, University of Michigan")
+	)
 	(lib_symbols
 		(symbol "CF_EXP_LEFT_2"
 			(pin_names
